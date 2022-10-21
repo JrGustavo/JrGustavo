@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [petal.com.co](https://petal.com.co/)
 
-- 🌱 I’m currently learning **Flutter | Ruby on Rails | PERN | AWS**
+- 🌱 I’m currently learning **IOS | Ruby on Rails  | AWS**
 
 - ⚡ Fun fact **I am Colombian**
 
