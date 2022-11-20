@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gustavo Adolfo Alvarado</h1>
-<h3 align="center">Founder & CEO at Petal.com.co 🇨🇴</h3>
+<h1 align="center">Hi 👋, I'm JrGustavo</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrgustavo&label=Profile%20views&color=0e75b6&style=flat" alt="jrgustavo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrgustavo" alt="jrgustavo" /></a> </p>
 
-- 🔭 I’m currently working on [petal.com.co](https://petal.com.co/)
-
-- 🌱 I’m currently learning **Mobile Developer | Ruby on Rails | Android  & IOS | AWS**
 
 - ⚡ Fun fact **I am Colombian**
 
