@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend Developer | Ruby | Kotlin | AWS | Go |
+- 🌱 I’m currently learning **Backend Developer | Ruby | Kotlin | AWS | Golang |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
