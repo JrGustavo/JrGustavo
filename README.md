@@ -1,4 +1,4 @@
-<h3 align="center">Ing Computer Science Stundent</h3>
+<h3 align="center">Ing Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrgustavo&label=Profile%20views&color=0e75b6&style=flat" alt="jrgustavo" /> </p>
 
