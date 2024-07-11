@@ -6,7 +6,7 @@
 
 ## About Me
 
-▪️ Im Computer Science 
+▪️ I'am Computer Science 
 
 🎯 I'am passionate about Data Engineering
 🍎 I enjoy developing in the Frontend & Backend
