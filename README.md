@@ -1,6 +1,6 @@
 
-<!-- Banner -->
-![Banner](https://via.placeholder.com/1200x300/B2FCE4/000000?text=Welcome+to+my+GitHub+Profile)
+
+
 
 
 # 💻 Tech Stack:
