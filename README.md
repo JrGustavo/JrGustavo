@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#10162F; padding:20px; border-radius:10px;">
   <img src="https://via.placeholder.com/150/10162F/FFF0E5?text=Gustavo" alt="GitHub Profile Image" style="border-radius:50%; margin-bottom:20px;">
-  <h1 style="color:#FFF0E5;">¡Hola! Soy Gustavo 👨‍💻</h1>
-  <p style="color:#FFD140;">Ing.  Ciencias de la Computación 🚀 | Apasionado por la tecnología, la inteligencia artificial  🌐</p>
+  <h1 style="color:#FFF0E5;">¡Hola! Soy Gustavo Alvarado 👨‍💻</h1>
+  <p style="color:#FFD140;">Estudiante de Ingeniería en Ciencias de la Computación 🚀 | Apasionado por la tecnología, la inteligencia artificial y las soluciones innovadoras 🌐</p>
 </div>
 
 ---
@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/Matplotlib-%231972D2.svg?logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Clojure-%233B444B.svg?logo=clojure&logoColor=white" alt="Clojure" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Shell-%23FFD140.svg?logo=powershell&logoColor=black" alt="Shell" />
 </p>
 
 ---
@@ -47,7 +53,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JrGustavo&show_icons=true&hide_title=true&theme=dark&bg_color=10162F&text_color=FFF0E5&icon_color=FFD140&hide_border=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JrGustavo&theme=dark&background=10162F&border=FFD140&ring=FFD140&fire=FFD140&currStreakLabel=FFF0E5" alt="Racha de GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrGustavo&layout=compact&theme=dark&bg_color=10162F&text_color=FFF0E5&icon_color=FFD140&hide_border=true" alt="Lenguajes más usados" />
 </p>
+
+### 🏆 Lenguajes utilizados en 2024
+- **JavaScript:** 35%
+- **Python:** 25%
+- **TypeScript:** 15%
+- **Java:** 10%
+- **Go:** 5%
+- **Otros (Dart, Ruby, etc.):** 10%
 
 ---
 
