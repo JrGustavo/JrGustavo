@@ -57,18 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrGustavo&layout=compact&theme=dark&bg_color=10162F&text_color=FFF0E5&icon_color=FFD140&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
-### 🏆 Lenguajes utilizados en 2024
-- **JavaScript:** 35%
-- **Python:** 25%
-- **TypeScript:** 15%
-- **Java:** 10%
-- **Go:** 5%
-- **Otros (Dart, Ruby, etc.):** 10%
 
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JrGustavo&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&column=6&bg_color=10162F&title_color=FFD140" alt="Trofeos de GitHub" />
-</p>
