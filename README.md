@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#10162F; padding:20px; border-radius:10px;">
   <img src="https://via.placeholder.com/150/10162F/FFF0E5?text=Gustavo" alt="GitHub Profile Image" style="border-radius:50%; margin-bottom:20px;">
   <h1 style="color:#FFF0E5;">¡Hola! Soy Gustavo Alvarado 👨‍💻</h1>
-  <p style="color:#FFD140;">Estudiante de Ingeniería en Ciencias de la Computación 🚀 | Apasionado por la tecnología, la inteligencia artificial y las soluciones innovadoras 🌐</p>
+  <p style="color:#FFD140;">Ing. Ciencias de la Computación 🚀 | Apasionado por la tecnología y la inteligencia artificial</p>
 </div>
 
 ---
