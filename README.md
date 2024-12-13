@@ -2,7 +2,7 @@
 
 <!-- Tecnologías y herramientas -->
 <div style="margin: 50px 0;">
-  <h2 style="text-align: center; font-family: 'Stratos', sans-serif; color: #10162F;">🚀 Tecnologías y Herramientas que utilizo</h2>
+  <h2 style="text-align: center; font-family: 'Stratos', sans-serif; color: #10162F;">🚀 Stack:</h2>
 <p align="center">
   <!-- Backend Technologies -->
   <img src="https://img.shields.io/badge/Java-%23E76F00.svg?logo=java&logoColor=white" alt="Java" />
