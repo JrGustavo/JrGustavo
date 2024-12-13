@@ -1,10 +1,12 @@
+<!-- Banner -->
+<div style="width: 100%; background: linear-gradient(to right, #10162F, #1E243A); padding: 50px 0; text-align: center; color: #FFF0E5; font-family: 'Stratos', sans-serif; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h1 style="font-size: 3rem; margin: 0;">Gustavo Alvarado</h1>
+  <p style="font-size: 1.5rem; margin: 10px 0 0;">🚀 Ingeniería en Ciencias de la Computación</p>
+</div>
 
-
-
----
-
-### 🚀 Tecnologías y Herramientas que utilizo
-
+<!-- Tecnologías y herramientas -->
+<div style="margin: 50px 0;">
+  <h2 style="text-align: center; font-family: 'Stratos', sans-serif; color: #10162F;">🚀 Tecnologías y Herramientas que utilizo</h2>
 <p align="center">
   <!-- Backend Technologies -->
   <img src="https://img.shields.io/badge/Java-%23E76F00.svg?logo=java&logoColor=white" alt="Java" />
@@ -56,3 +58,4 @@
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Clojure-%233B444B.svg?logo=clojure&logoColor=white" alt="Clojure" />
 </p>
+</div>
