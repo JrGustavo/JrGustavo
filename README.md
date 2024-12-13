@@ -1,14 +1,5 @@
-<div style="background-color: #10162F; padding: 40px; border-radius: 15px; max-width: 80%; margin: 0 auto; text-align: center; font-family: 'Stratos', sans-serif;">
-  <img 
-    src="https://via.placeholder.com/200/10162F/FFF0E5?text=Gustavo" 
-    alt="GitHub Profile Image" 
-    style="border-radius: 50%; margin-bottom: 30px; width: 150px; height: 150px; border: 3px solid #FFD140;">
-  <h1 style="color: #FFF0E5; font-size: 2.5rem; margin-bottom: 10px;">¡Hola! Soy Gustavo Alvarado 👨‍💻</h1>
-  <p style="color: #FFD140; font-size: 1.25rem;">Ing. Ciencias de la Computación 🚀 | Apasionado por la tecnología y la inteligencia artificial</p>
-</div>
 
-<!-- Añade este fragmento en el <head> de tu archivo HTML -->
-<link href="https://fonts.googleapis.com/css2?family=Stratos:wght@400;700&display=swap" rel="stylesheet">
+
 
 ---
 
