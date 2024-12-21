@@ -25,6 +25,7 @@
   
   <!-- Data Engineering & Data Science -->
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Looker-%234285F4.svg?logo=looker&logoColor=white" alt="Looker" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/DataBricks-%23FF3621.svg?logo=databricks&logoColor=white" alt="DataBricks" />
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?logo=googlecloud&logoColor=white" alt="BigQuery" />
   
   <!-- DevOps & Infrastructure -->
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" />
@@ -48,6 +50,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-%234285F4.svg?logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Jetbrains-%23000000.svg?logo=jetbrains&logoColor=white" alt="Jetbrains" />
