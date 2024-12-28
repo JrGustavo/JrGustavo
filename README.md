@@ -1,7 +1,7 @@
 
 
 <!-- Tecnologías y herramientas -->
-<div style="margin: 50px 0;">
+<div style="margin: 80px 0;">
   <h1 style="text-align: center; font-family: 'Stratos', sans-serif; color: #10162F;">🚀 Stack:</h1>
 <p align="center">
   <!-- Backend Technologies -->
