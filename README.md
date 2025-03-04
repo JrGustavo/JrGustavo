@@ -1,5 +1,5 @@
 <!-- Tecnologías y herramientas -->
-<div style="margin: 80px 0; text-align: center;">
+<div style="margin: 70px 0; text-align: center;">
   <h1 style="font-family: 'Stratos', sans-serif; color: #10162F;">🚀 Stack:</h1>
   
   <h3>Backend Technologies</h3>
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?logo=googlecloud&logoColor=white" alt="BigQuery" />
   </p>
   
-  <h3>DevOps & Infrastructure</h3>
+  <h3>DevOps and  Infrastructure</h3>
   <p>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" alt="Nginx" />
