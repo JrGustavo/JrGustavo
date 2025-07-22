@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?logo=apachekafka&logoColor=white" alt="Apache Kafka" />
     <img src="https://img.shields.io/badge/Apache%20NiFi-%23017CEE.svg?logo=apache&logoColor=white" alt="Apache NiFi" />
     <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?logo=dbt&logoColor=white" alt="dbt" />
-    <img src="https://img.shields.io/badge/Prefect-%23026AA7.svg?logo=prefect&logoColor=white" alt="Prefect" />
     <img src="https://img.shields.io/badge/Dagster-%23654FF0.svg?logo=dagster&logoColor=white" alt="Dagster" />
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/Polars-%23CD792C.svg?logo=polars&logoColor=white" alt="Polars" />
